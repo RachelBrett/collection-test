@@ -1,4 +1,4 @@
-objectid,format,filename,title,description,latitude,longitude,source,identifier,type,language,rights,rightsstatement,youtubeid,vimeoid,creator,date,subject,location
-coll001,image/jpeg,test001.jpg,Photo 1,,,,,,,,,,,,,,,
-coll002,image/jpeg,test002.jpg,Photo 2,,,,,,,,,,,,,,,
-coll003,image/jpeg,test003.jpg,Photo 3,,,,,,,,,,,,,,,
+objectid,parentid,format,filename,title,description,latitude,longitude,source,identifier,type,language,rights,rightsstatement,youtubeid,vimeoid,creator,date,subject,location
+coll001,,image/jpeg,coll001,"Equivalent to ""name"" column from Google Maps","Equivalent to ""description"" column from Google Maps",45.135650634765625,10.02406120300293,,,,,,,,,,,,
+coll002,,image/jpeg,coll002,"This second row is just to show you how ""objectid"" and ""format"" should be filled. While you can choose the ids  for ""objectid"", ""format"" must always be ""image/jpeg"" or ""image/png"" (see CollectionBuilder documentation for complete tags). Remind that ""filename"" content must be the same of the files' names uploaded to ""objects"" folder",,45.13524627685547,10.017806053161621,,,,,,,,,,,,
+coll003,,image/jpeg,coll003,,,45.133087158203125,10.017436027526855,,,,,,,,,,,,
