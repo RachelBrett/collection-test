@@ -1,0 +1,4 @@
+objectid,format,filename,title,description,latitude,longitude,source,identifier,type,language,rights,rightsstatement,youtubeid,vimeoid,creator,date,subject,location
+coll001,image/jpeg,test001.jpg,Photo 1,,,,,,,,,,,,,,,
+coll002,image/jpeg,test002.jpg,Photo 2,,,,,,,,,,,,,,,
+coll003,image/jpeg,test003.jpg,Photo 3,,,,,,,,,,,,,,,
